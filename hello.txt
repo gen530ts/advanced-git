@@ -4,3 +4,4 @@ test_privet"Hello again"
 =======
 "Second line in my_second_branch" 
 >>>>>>> my_second_branch
+"Hello from main repository" 
